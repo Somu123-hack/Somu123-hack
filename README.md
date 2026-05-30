@@ -1,3 +1,4 @@
+```md
 <!--Banner-->
 ![Somnath M Banner Image](./banner.png)
 
@@ -8,218 +9,152 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Somnath M!
-*Data Scientist & AI Engineer*
+*Aspiring Data Scientist | CSE Student | Hackathon Participant*
 <br />
 
 <!--Start Intro-->
-<p align="left">I am a <strong>Data Scientist</strong> and <strong>AI Engineer</strong> with a deep passion for building intelligent systems, Agentic AI pipelines, and data-driven applications. I love working with Python, Machine Learning, Deep Learning, LLMs, Agentic AI Frameworks, and Data Visualization.</p>
+<p align="left">
+I am a Computer Science Engineering student at GITAM University who has recently completed my second year. I aspire to become a Data Scientist and am actively learning the skills required in programming, data analysis, machine learning, and artificial intelligence. I enjoy building projects, participating in hackathons, and exploring how technology can solve real-world problems.
+</p>
 
-- ✨ Student of life :)
-- 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🤖 Passionate about **Agentic AI**, LLM systems, and building AI-powered real-world applications.
-- 🧠 Deep interest in **Data Science**, ML model development, and advanced AI research.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
+- 🎓 Completed 2nd Year B.Tech CSE at GITAM University
+- 🚀 Participant in India Runs Hackathon 2026
+- 📊 Aspiring Data Scientist
+- 💻 Interested in Software Development, Data Science, and AI
+- 🌱 Currently learning Python, Java, Data Structures & Algorithms
+- 🤖 Exploring Machine Learning and Artificial Intelligence
+- 📚 Building practical skills through projects and hackathons
+- 🎯 Goal: Become a Skilled Data Scientist and AI Professional
 <!--End Intro-->
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="SumitSartale" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=770677&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <!--Languages and Tools Section-->
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
+<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Fᴏᴄᴜs</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
 </picture>
+
 <br />
 
-<h3 align="left">🧠 Data Science & AI Skills</h3>
+<h3 align="left">🧠 Skills & Learning Journey</h3>
+
 <ul align="left">
-  <li><strong>Data Science:</strong> Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, EDA, Feature Engineering</li>
-  <li><strong>Machine Learning & Deep Learning:</strong> Supervised/Unsupervised Learning, Neural Networks, CNNs, RNNs, Transformers, PyTorch, TensorFlow, Keras</li>
-  <li><strong>Agentic AI:</strong> LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, OpenAI Agents SDK, MCP (Model Context Protocol), RAG Pipelines, Multi-Agent Systems</li>
-  <li><strong>LLMs & Generative AI:</strong> Prompt Engineering, Fine-tuning, OpenAI API, Anthropic Claude API, Hugging Face, Vector Databases (Pinecone, Chroma, FAISS)</li>
-  <li><strong>AI Projects & MLOps:</strong> Model Deployment, FastAPI, Docker, MLflow, Streamlit, Gradio, AWS SageMaker</li>
-  <li><strong>Full Stack:</strong> React.js, Node.js, Django, REST APIs, PostgreSQL, MongoDB</li>
+  <li><strong>Programming:</strong> Python, Java, C</li>
+  <li><strong>Web Development:</strong> HTML, CSS, JavaScript, Flask Basics</li>
+  <li><strong>Data Science:</strong> NumPy, Pandas, Data Visualization (Learning)</li>
+  <li><strong>Machine Learning:</strong> Fundamentals, Model Building Concepts (Learning)</li>
+  <li><strong>Core CS:</strong> Data Structures & Algorithms, OOP, DBMS</li>
+  <li><strong>Tools:</strong> Git, GitHub, VS Code</li>
 </ul>
 
 <h3 align="left">📚 Current Learning</h3>
+
 <ul align="left">
-  <li>Building advanced <strong>Agentic AI</strong> systems using LangGraph, CrewAI, and AutoGen.</li>
-  <li>Deepening expertise in <strong>LLM fine-tuning</strong> and model alignment techniques.</li>
-  <li>Exploring <strong>MLOps</strong> best practices and scalable AI infrastructure on AWS & Azure.</li>
-  <li>Researching <strong>Multi-Agent collaboration frameworks</strong> and autonomous AI pipelines.</li>
+  <li>Data Structures and Algorithms</li>
+  <li>Python for Data Science</li>
+  <li>Machine Learning Fundamentals</li>
+  <li>Data Analysis using Pandas and NumPy</li>
+  <li>Building Real-World Software Projects</li>
+  <li>Preparing for Hackathons and Technical Competitions</li>
 </ul>
 
-<h3 align="left">Latest Blog Posts</h3>
+<h3 align="left">🚀 Current Projects & Interests</h3>
+
 <ul align="left">
-  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
-  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in &lt;1 min🙂</a></li>
-  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+  <li>India Runs Hackathon 2026 Participation</li>
+  <li>Student Portal Development</li>
+  <li>Time Capsule Messaging System</li>
+  <li>Exploring Data Science and AI Applications</li>
+  <li>Interactive Virtual Campus (Concept & Research Stage)</li>
 </ul>
-<br />
+
 <br />
 <br />
 <br />
 
 ---
 
-<!--Agentic AI Frameworks Section-->
-<h2 align="center">🤖 Aɢᴇɴᴛɪᴄ AI & Fʀᴀᴍᴇᴡᴏʀᴋs</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP_Protocol-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FF9500?style=for-the-badge&logoColor=white" />
-</p>
+<!--Skills Badges-->
+<h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
-<!--Data Science Stack Section-->
-<h2 align="center">📊 Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ Sᴛᴀᴄᴋ</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-<!--Trophies Section-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!--Github Stats-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
+
 <p align="center">
-  <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <a href="https://github.com/daytonaio/daytona">
-    <img
-      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
-      width="400"
-    />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
 </p>
-<br />
 
-<!--Github stats Table-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/sunnysartale1-rgb?tab=repositories">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
-
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM-->
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
 
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ayn%20Rand&quote=Integrity%20is%20the%20ability%20to%20stand%20by%20an%20idea.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=dark">
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 ---
 
 <!--Contact Section-->
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<h2 align="center">🤝 Connect With Me 🤝</h2>
+
 <div align="center">
 
-<a href="mailto:ssartale6@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="ssartale6@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="./gmail.png" width="50" height="50" />
 </a>
 
-<a href="" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="./github.png" width="50" height="50" />
 </a>
 
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="./linkedin.png" width="50" height="50" />
 </a>
 
-<a href="https://www.github.com/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="./instagram.png" width="50" height="50" />
 </a>
 
-<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://dev.to/dev_kiran" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
-</a>
 </div>
-<br/>
 
-<!--Buy me a coffee-->
-<div align="center">
-<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
-</div>
+<br />
 
 <!--Footer-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+```
